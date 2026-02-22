@@ -1,0 +1,56 @@
+/05_module_a/
+
+#A1
+
+-> slider (ranges from Rs.0 - Rs.1000) in steps of 25
+-> price_values (gap of Rs.25)
+-> difference default (l-> 300, r-> 700)
+-> total_range (r-l)/(r+l)*100
+
+-> basic functionality:
+    used div tags for distinction
+
+-> Basic Formulae:
+    the basic formula which we can use to determine range is (r-l)/(r+l)*100
+
+-> to run the code -> right click -> open with live server
+
+
+
+#A2
+
+Create separate div tabs for phases and speed
+phases: ->night ->dawn -> day -> dusk
+speed: ->slow ->normal ->fast
+
+-> using keyframes we can make this possible
+
+
+
+#A3
+
+-> we can make this possible dynamically using keyframes
+
+
+#A4
+
+-> a text is provided
+-> search-box implementation
+-> highlight matching words
+-> find the count of distinct words using key:value pairs
+-> sumit and clear buttons
+-> error message
+
+-> basic functionality:
+    using dictionary (key:value pairs) we can easily figure out the count of distinct keywords
+
+
+
+#A5
+
+-> basic functionality is the usage of opacity
+
+
+#A6
+
+-> basic functionality is the usage of shadow keys at the right destination
